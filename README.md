@@ -1,2 +1,2 @@
-# EpicMode.github.io
+# EpicMode.github.io redirects to
 EpicMode Website
