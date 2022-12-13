@@ -68,11 +68,15 @@
             Dress yourself and your character in the same design!
         </p>
 
-        <video controls width="250">
-          <source src="videos/seamlymode(720p).mp4" type="video/mp4">
-          <source src="videos/EpicMode_HowItworks.mp4" type="video/mp4">
-        </video>
-
+        <div id="video-wrapper"> 
+          <video id="EpicMode" width="250" poster="images/EpicModeVR.png" controls="controls" preload="none"> 
+              <source type="video/mp4" src="videos/seamlymode(720p).mp4" /> 
+          </video>
+          <video id="HowItWorks" width="250" poster="images/HowItWorks.png" controls="controls" preload="none"> 
+              <source type="video/mp4" src="videos/EpicMode_HowItworks.mp4" /> 
+          </video>
+          <div class="clear"></div> 
+        </div>
 
         <h3><a id="contact-us" class="anchor" href="#contact-us" aria-hidden="true">
           <span aria-hidden="true" class="octicon octicon-link"></span></a>Contact us
