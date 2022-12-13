@@ -1,2 +1,2 @@
 # EpicMode.github.io 
-redirects to [![EpicMode.co](https://epicmode.co)]
+redirects to [EpicMode.co](https://epicmode.co)
